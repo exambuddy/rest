@@ -1,0 +1,3 @@
+nmap - T4 -A -v scanme.nmap.org
+nmap -p 22,113,139 scanme.nmap.org
+nmap -sN -p 22 scanme.nmap.org
